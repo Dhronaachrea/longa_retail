@@ -1,0 +1,12 @@
+<svg data-name="Group 330" xmlns="http://www.w3.org/2000/svg" width="131.959" height="154.885" viewBox="0 0 131.959 154.885">
+    <path data-name="Path 765" d="m137.13 25.987.085-.244L76.089 0 5.517 26.01l-.2-.085v.167l-.009.005.009.028v71.182l61.2 25.861 70.752-25.862v-71.38zM76.032 5.061l20.733 8L30.7 36.722 11.556 28.58zm-11.7 112.273-22.921-9.976-11.5-4.659L9.691 94.1V32.854l20.016 8.512V59.53l1.784-.537 1.209 1.786 1.678-.422L36 62.208l1.419-.527 3.351 2.448v-18.51l1.782.758 21.783 9.713v61.244zm2.186-65.378-21.284-9.505L109.9 18.368l21.671 9.984zM132.9 94.1l-64.194 23.234V56.091l64.186-23.238V94.1h.005z" transform="translate(-5.309 31.717)" style="fill:#e96262"/>
+    <g data-name="Group 328" transform="translate(53.665 67.247)">
+        <circle data-name="Ellipse 256" cx="23.982" cy="23.982" style="fill:#676767" r="23.982"/>
+        <path data-name="checked (1)" d="M.26 12.519a.836.836 0 0 1 0-1.211L1.471 10.1a.836.836 0 0 1 1.211 0l.087.087 4.759 5.105a.418.418 0 0 0 .606 0L19.729 3.26h.087a.836.836 0 0 1 1.211 0l1.211 1.211a.836.836 0 0 1 0 1.211L8.394 20.047a.836.836 0 0 1-1.211 0l-6.75-7.269-.173-.26z" transform="translate(13.46 13.056)" style="fill:#fff"/>
+    </g>
+    <g data-name="Group 329" transform="translate(21.21)">
+        <rect data-name="Rectangle 1542" width="3.182" height="15.908" rx="1.591" transform="rotate(-30 33.157 8.886)" style="fill:#e96262"/>
+        <rect data-name="Rectangle 1543" width="3.182" height="15.908" rx="1.591" transform="rotate(30 8.785 153.542)" style="fill:#e96262"/>
+        <rect data-name="Rectangle 1544" width="3.182" height="15.908" rx="1.591" transform="translate(39.239)" style="fill:#e96262"/>
+    </g>
+</svg>
